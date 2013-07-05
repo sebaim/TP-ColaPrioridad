@@ -1,4 +1,4 @@
-package com.parte3.tp2;
+package colaDePrioridad;
 
 public class ColaDeP implements Cola {
 
